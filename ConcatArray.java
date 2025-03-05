@@ -1,6 +1,6 @@
 /**
  *  qeustion : 1929. Concatenation of Array
- */
+*/
 
 import java.util.Arrays;
 
