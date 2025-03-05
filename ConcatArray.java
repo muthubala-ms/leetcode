@@ -11,6 +11,7 @@ public class ConcatArray{
     }
 
     // this method take an array and return new array name as ans with doblue values
+    
     static public int[] getConcatenation(int[] nums) {
         int[] ans = new int[nums.length*2];
         for(int i=0;i<nums.length;i++){
